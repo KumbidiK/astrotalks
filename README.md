@@ -41,14 +41,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="701" height="913" alt="Screenshot 2025-08-09 at 3 31 59 PM" src="https://github.com/user-attachments/assets/400e1e14-a09c-4ca1-aadf-5c9c07e5a283" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="731" height="932" alt="Screenshot 2025-08-09 at 3 31 31 PM" src="https://github.com/user-attachments/assets/67b598ba-ba48-4a37-b021-2e75662b3980" />
+*An audio is played...
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="724" height="980" alt="Screenshot 2025-08-09 at 3 34 14 PM" src="https://github.com/user-attachments/assets/c4b2f191-a68f-4d1a-b500-3301e2494a1c" />
+
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
