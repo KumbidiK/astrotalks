@@ -1,0 +1,27 @@
+name: flutter_application_1
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^6.0.0 # This is the dependency for playing audio.
+  intl: ^0.18.1 # This is the dependency for DateFormat.
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+
+  assets:
+    - assets/dever.png
+    - assets/jyo1_2.mp3
+    - assets/astro.jpeg
