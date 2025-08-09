@@ -19,7 +19,7 @@ We have seen many astrology sites and apps. This is our take on it.
 [Peoples need to know about their future]
 
 ### The Solution (that nobody asked for)
-[We just made a space where people can ask about themselves based on their astrology. But the result is not what they expect.]
+[We just made a space where people can ask about themselves based on their astrology. But the result is not what they expect.This is purely for fun purposes. :)]
 
 ## Technical Details
 ### Technologies/Components Used
