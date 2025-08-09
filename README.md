@@ -75,7 +75,8 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[WhatsApp Video 2025-08-09 at 15.55.11-2-2-2.mp4.zip](https://github.com/user-attachments/files/21697485/WhatsApp.Video.2025-08-09.at.15.55.11-2-2-2.mp4.zip)
+
 *Explain what the video demonstrates*
 
 # Additional Demos
